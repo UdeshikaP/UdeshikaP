@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udeshika Balasooriya</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
-- 🌱 I’m currently learning **React, Android, and SE best practices**
+- 🌱 I’m currently learning **React,Node,Express, Android, and SE best practices**
 
 - 💬 Ask me about **Web, Android**
 - 🎓 Undergraduate at **SLIIT, specializing in Software Engineering**
