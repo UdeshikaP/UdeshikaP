@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React, Android, and SE best practices**
 
 - 💬 Ask me about **Web, Android**
+- 🎓 Undergraduate at **SLIIT, specializing in Software Engineering**
 
 - 📫 How to reach me **piumiudeshika02@gmail.com**
 
