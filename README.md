@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **piumiudeshika02@gmail.com**
 
-- ⚡ Fun fact **I think I’m funny. My code sometimes agrees. 😄**
+- ⚡ Fun fact **I think I’m funny. My code sometimes agrees.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/udeshika-balasooriya-042285243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udeshika-balasooriya-042285243" height="30" width="40" /></a>
