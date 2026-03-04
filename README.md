@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udeshika Balasooriya</h1>
-<h3 align="center">A passionate frontend developer from SriLanka</h3>
+<h3 align="center">A passionate full stack developer from SriLanka</h3>
 
 - 🌱 I’m currently learning **React,Node,Express, Android, and SE best practices**
 
