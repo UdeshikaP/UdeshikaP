@@ -2,9 +2,9 @@
 
 <!-- Theme-sensitive animated banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Udeshika Balasooriya Hero Banner" src="readmefile/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Udeshika Balasooriya Hero Banner" src="dark.svg" width="100%">
 </picture>
 
 <br/>
