@@ -27,42 +27,11 @@ My capstone, **VoiceBridge**, is an Android AAC platform for children with commu
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6366F1?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-8B5CF6?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-6366F1?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8B5CF6?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3B82F6?style=flat-square&logo=php&logoColor=white)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6366F1?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-6366F1?style=flat-square&logo=android&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-3B82F6?style=flat-square&logo=express&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-6366F1?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-3B82F6?style=flat-square&logo=firebase&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-6366F1?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3B82F6?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-6366F1?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-8B5CF6?style=flat-square&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-3B82F6?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-6366F1?style=flat-square&logo=cypress&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readmefile/skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="readmefile/skills-light.svg">
+  <img alt="Technical skills: JavaScript, Java, Kotlin, Python, C, C++, PHP, React, HTML5, CSS3, Tailwind CSS, Android, Node.js, Express, MongoDB, MySQL, Firebase, Docker, Kubernetes, Git, Postman, Figma, Jest, Cypress, Linux" src="readmefile/skills-dark.svg" width="100%">
+</picture>
 
 ---
 
